@@ -1,6 +1,6 @@
 {
   "name": "count-lines-of-code",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "count lines of code",
   "main": "lib/count.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "bin": {
     "count-lines-of-code": "bin/count.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iMyth/count-lines-of-code.git"
   },
   "keywords": [
     "count",
