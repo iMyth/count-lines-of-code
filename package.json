@@ -1,0 +1,23 @@
+{
+  "name": "count-lines-of-code",
+  "version": "1.0.2",
+  "description": "count lines of code",
+  "main": "lib/count.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "count-lines-of-code": "bin/count.js"
+  },
+  "keywords": [
+    "count",
+    "lines",
+    "of",
+    "code"
+  ],
+  "author": "Myth",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.20.0"
+  }
+}
