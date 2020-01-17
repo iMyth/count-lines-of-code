@@ -1,6 +1,6 @@
 {
   "name": "count-lines-of-code",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "count lines of code",
   "main": "lib/count.js",
   "scripts": {
