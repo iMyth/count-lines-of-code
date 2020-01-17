@@ -13,7 +13,7 @@ function resolve(program) {
   const dir = args[0] || ''
   const excludeExt = args[1]
   lib.count(dir, count => {
-    console.log('Total lines of code:' + count)
+    console.log('Total lines of code: ' + count)
   }, excludeExt)
 }
 
