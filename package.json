@@ -1,6 +1,6 @@
 {
   "name": "count-lines-of-code",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "count lines of code",
   "main": "lib/count.js",
   "scripts": {
@@ -23,6 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0",
-    "commander": "^2.20.0"
+    "commander": "^2.20.0",
+    "graceful-fs": "^4.2.3"
   }
 }
