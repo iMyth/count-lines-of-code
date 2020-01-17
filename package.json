@@ -1,6 +1,6 @@
 {
   "name": "count-lines-of-code",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "count lines of code",
   "main": "lib/count.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "author": "Myth",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^3.0.0",
     "commander": "^2.20.0"
   }
 }
